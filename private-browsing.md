@@ -4,7 +4,7 @@
 
 All popular web browsers include some mode or method for the user to indicate
 that they want "additional" privacy, beyond what a typical browsing experience
-would provide.  In some cases, the meer use of a particular browse (e.g.
+would provide.  In some cases, the mere use of a particular browser (e.g.
 Tor Browser Bundle) may indicate a user preference for heightened privacy.
 
 Browser vendors implement different protections, target different threat
