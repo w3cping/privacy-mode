@@ -1,6 +1,6 @@
-# Private Browsing Mode
+# Heightened Privacy Mode
 
-## "Private Browsing" and Web Browsers
+## "Heightened Privacy Mode" and Web Browsers
 
 All popular web browsers include some mode or method for the user to indicate
 that they want "additional" privacy, beyond what a typical browsing experience
@@ -9,9 +9,9 @@ Tor Browser Bundle) may indicate a user preference for heightened privacy.
 
 Browser vendors implement different protections, target different threat
 models, and generally forward different aims in their implementations of a
-"private browsing" mode.  This document does not aim to prescribe any
-particular behavior that browser vendors should follow when in a "private
-browsing" mode.  This document only aims to recognize and stand in for
+"Heightened Privacy" mode.  This document does not aim to prescribe any
+particular behavior that browser vendors should follow when in a "Heightened
+Privacy" mode.  This document only aims to recognize and stand in for
 an expressed desire for more privacy by the user, beyond whats provided by
 typical browsing. Standards authors can then use this signal to suggest
 or instruct different behaviors browser functionality, when users have
@@ -52,7 +52,7 @@ functionality that web authors can target, without breaking their applications
 in "private browsing" modes.
 
 
-## Further Clarifications of What This Document Is Not
+## Further Clarifications of What This Document _Is Not_
 
 For clarity purposes, here is an incomplete enumeration of explicit non-goals
 of this document.
