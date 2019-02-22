@@ -1,4 +1,4 @@
-# Heightened Privacy Mode
+# Standardizing Privacy-Oriented Standards Deviations, in Web Standards
 
 ## "Heightened Privacy Mode" and Web Browsers
 
